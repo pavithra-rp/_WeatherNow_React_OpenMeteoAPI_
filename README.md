@@ -1,0 +1,2 @@
+# _WeatherNow_React_OpenMeteoAPI_
+Created with CodeSandbox
