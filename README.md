@@ -1,8 +1,30 @@
-# React + Vite
+# 🌤 Weather Now
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple weather app made with **React**.  
+You can type any city name and see the current temperature, wind speed, and weather conditions using the **Open-Meteo API**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## What This App Does
+
+- Lets you search for any city  
+- Shows current temperature, windspeed, and condition  
+- Displays a message if the city isn’t found  
+- Has a clean and colorful design 🌈  
+
+---
+
+## How to Run in CodeSandbox
+
+1. Go to [https://codesandbox.io](https://codesandbox.io)
+2. Create a new **React + Vite** sandbox
+3. Copy your app files (`App.jsx`, `WeatherForm.jsx`, `WeatherDisplay.jsx`, `App.css`, `main.jsx`)
+4. The app runs automatically — just type a city and click **Get Weather**
+
+---
+
+## ChatGPT Link
+
+https://chatgpt.com/share/69023b25-c364-8007-aa1d-e49d4116b1ed
+
+---
