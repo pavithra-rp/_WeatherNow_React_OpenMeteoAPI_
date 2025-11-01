@@ -23,8 +23,5 @@ You can type any city name and see the current temperature, wind speed, and weat
 
 ---
 
-## ChatGPT Link
-
-https://chatgpt.com/share/69023b25-c364-8007-aa1d-e49d4116b1ed
 
 ---
